@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "SeJong Kang"
-  avatar           : # path of avatar image, e.g. "/assets/images/mimoticon.png"
+  avatar           : "/assets/images/mimoticon.png" # path of avatar image, e.g. "/assets/images/mimoticon.png"
   bio              : "I am an ENFP person."
   location         : "Seoul, Republic of Korea"
   email            : "sejong055@gmail.com"
@@ -285,7 +285,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
   # _pages
