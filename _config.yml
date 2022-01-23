@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : "Version 1.0"
 name                     : "SeJong Kang"
 description              : "파이썬과 자바로 채워지고 싶은 블로그"
-url                      : "https://sejongkang.github.io/"
+url                      : "https://sejongkang.github.io"
 baseurl                  : #
 repository               : "sejongkang/sejongkang.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : "https-sejongkang-github-io"
+    shortname            : https-sejongkang-github-io
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
