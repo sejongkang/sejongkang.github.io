@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "특별할 것 없는 블로그"
+title                    : "기록과 채우기"
 title_separator          : "-"
 subtitle                 : "Version 1.0"
 name                     : "SeJong Kang"
-description              : "파이썬과 자바로 채워지고 싶은 블로그"
+description              : ""
 url                      : "https://sejongkang.github.io"
 baseurl                  : #
 repository               : "sejongkang/sejongkang.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "기록 또 기록"
+masthead_title           : "파이썬과 자바로 채워지고 싶은"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -228,6 +228,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-admin
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -236,6 +237,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-admin
 
 
 # Archives
@@ -295,3 +297,9 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+jekyll_admin:
+
+  hidden_links:
+
+  homepage: ""
