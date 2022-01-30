@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "3Jong Journal"
+title                    : "SeJong's GitBlog"
 title_separator          : "-"
 subtitle                 : "Version 1.0"
 name                     : "SeJong Kang"
@@ -26,7 +26,7 @@ baseurl                  : #
 repository               : "sejongkang/sejongkang.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "기록들"
+masthead_title           : "Tech, Records,"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
